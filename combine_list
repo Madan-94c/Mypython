@@ -1,0 +1,5 @@
+#10. Write a Python program to merge two lists and print the combined list.
+a = [1,2,3]
+b = [4,5,6]
+combine_list=(a+b)
+print(" The combine_list:",combine_list)
